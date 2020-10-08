@@ -14,3 +14,14 @@ This repo contains my solution to the c3.ai COVID [Challenge](https://c3.ai/c3-a
 -   Data analytics for COVID-19 research harnessing private and sensitive data, including the role of edge computing/IoT for gathering data​
 -   Improving societal resilience in response to the spread of the pandemic​
 -   Broader efforts in biomedicine, infectious disease modeling, response logistics and optimization, public health, tools, and methodologies around the  containment of infectious diseases, and response to pandemics so as to be better prepared for future infectious disease response.​
+
+# Some thoughts & ideas:
+
+- There are few critical areas for any viral disease:
+  - Virus spreading and transmission
+  - Asymptomatic and presymptomatic virus shedding (the incubation period)
+  - Diagnosis
+  - Treatment
+  - Vaccine development
+  - Origin of virus
+  - Viral pathogenesis
