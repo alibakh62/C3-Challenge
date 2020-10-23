@@ -25,6 +25,11 @@ This repo contains my solution to the c3.ai COVID [Challenge](https://c3.ai/c3-a
   - Vaccine development
   - Origin of virus
   - Viral pathogenesis
+  
+### Ideas on vaccine allocation
+- On vaccince allocation problem, instead of prioritizing groups of people and vaccinate them in order, what if we vaccince people from all the groups and with different proportions? For example, let's say, there are four groups: first responders, elderly, people with precondition, general public. One policy is to prioritize these groups and vaccinate them in order, say, 1-elderly, 2-first-responders, etc. An alternative policy is to vaccincate people from each group but just with different proportions. So, it'd be for example first-responders (90%), elderly (80%), people with precondition (50%), general public (20%). So, really the question is: **Which policy yields better results in terms of minimizing morbidity and mortality rates _faster_? and if the latter policy turns out to be the better policy, what's the percentages of each group who should receive the vaccine given the initial state?**
+  - **Note:** The **initial states** for each group are factors such as % of coverage, morbidity and mortality rate, etc.
+- How do we choose groups? by age? by occupation? by health status? or a combination of them?
 
 # Miscellaneous
 
